@@ -1,0 +1,52 @@
+{
+  "competencias": [
+    { "id": 1, "materiaId": 1, "nome": "Competência 01: Palavras, Imagem e Vida Social" },
+    { "id": 2, "materiaId": 1, "nome": "Competência 06: Texto - Contexto e Função" },
+    { "id": 3, "materiaId": 1, "nome": "Competência 07: Opiniões e Pontos de Vista" },
+    { "id": 4, "materiaId": 2, "nome": "2.1 Fonologia" },
+    { "id": 5, "materiaId": 2, "nome": "2.2 Morfologia" },
+    { "id": 6, "materiaId": 2, "nome": "2.3 Sintaxe" }
+  ],
+
+  "subtemas": [
+    { "id": 1, "competenciaId": 1, "nome": "1.1 Uso das Palavras no Contexto" },
+    { "id": 2, "competenciaId": 1, "nome": "1.2 Relação entre Imagem e Texto" },
+    { "id": 3, "competenciaId": 2, "nome": "2.1 Função do Texto no Contexto" },
+    { "id": 4, "competenciaId": 2, "nome": "2.2 Texto e Interpretação" },
+    { "id": 5, "competenciaId": 3, "nome": "3.1 Voz Autoral e Crítica" },
+    { "id": 6, "competenciaId": 3, "nome": "3.2 Argumentação no Texto" },
+    { "id": 7, "competenciaId": 4, "nome": "4.1 Fonética e Fonologia" },
+    { "id": 8, "competenciaId": 4, "nome": "4.2 Construção da Palavra" },
+    { "id": 9, "competenciaId": 5, "nome": "5.1 Estrutura das Palavras" },
+    { "id": 10, "competenciaId": 5, "nome": "5.2 Formação das Palavras" },
+    { "id": 11, "competenciaId": 6, "nome": "6.1 Análise Sintática" },
+    { "id": 12, "competenciaId": 6, "nome": "6.2 Função das Palavras na Frase" }
+  ],
+
+  "aulas": [
+    { "id": 1, "subtemaId": 1, "titulo": "Introdução ao Contexto", "duracao": "00:14:19" },
+    { "id": 2, "subtemaId": 1, "titulo": "Análise Textual", "duracao": "00:14:00" },
+    { "id": 3, "subtemaId": 2, "titulo": "Semiótica no Texto", "duracao": "00:15:14" },
+    { "id": 4, "subtemaId": 2, "titulo": "Imagem e Discurso", "duracao": "00:11:56" },
+    { "id": 5, "subtemaId": 3, "titulo": "Autor e sua Obra", "duracao": "00:13:30" },
+    { "id": 6, "subtemaId": 3, "titulo": "Perspectiva Crítica", "duracao": "00:12:45" },
+    { "id": 7, "subtemaId": 4, "titulo": "Texto e Significado", "duracao": "00:16:10" },
+    { "id": 8, "subtemaId": 4, "titulo": "Interpretação Avançada", "duracao": "00:14:25" },
+    { "id": 9, "subtemaId": 5, "titulo": "Autoria e Identidade", "duracao": "00:13:50" },
+    { "id": 10, "subtemaId": 5, "titulo": "Crítica Textual", "duracao": "00:12:30" },
+    { "id": 11, "subtemaId": 6, "titulo": "Estrutura Argumentativa", "duracao": "00:15:00" },
+    { "id": 12, "subtemaId": 6, "titulo": "Contra-argumentação", "duracao": "00:14:10" },
+    { "id": 13, "subtemaId": 7, "titulo": "Fonetismo e Pronúncia", "duracao": "00:13:15" },
+    { "id": 14, "subtemaId": 7, "titulo": "Variações Fonológicas", "duracao": "00:14:35" },
+    { "id": 15, "subtemaId": 8, "titulo": "Morfema e Palavra", "duracao": "00:12:55" },
+    { "id": 16, "subtemaId": 8, "titulo": "Estruturas Morfológicas", "duracao": "00:13:40" },
+    { "id": 17, "subtemaId": 9, "titulo": "Sintaxe e Construção", "duracao": "00:15:20" },
+    { "id": 18, "subtemaId": 9, "titulo": "Análise Sintática Avançada", "duracao": "00:14:50" },
+    { "id": 19, "subtemaId": 10, "titulo": "Criação de Palavras", "duracao": "00:13:10" },
+    { "id": 20, "subtemaId": 10, "titulo": "Neologismos e Linguagem", "duracao": "00:14:20" },
+    { "id": 21, "subtemaId": 11, "titulo": "Introdução à Sintaxe", "duracao": "00:15:05" },
+    { "id": 22, "subtemaId": 11, "titulo": "Estruturas Sintáticas", "duracao": "00:14:55" },
+    { "id": 23, "subtemaId": 12, "titulo": "Análise da Frase", "duracao": "00:13:35" },
+    { "id": 24, "subtemaId": 12, "titulo": "Função dos Elementos", "duracao": "00:12:45" }
+  ]
+}
