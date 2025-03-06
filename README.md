@@ -14,7 +14,7 @@ Este projeto utiliza Vue 3 e Vite para criar uma aplicação interativa com estr
 
 ```sh
 git clone https://github.com/wislla/explicae-teste.git
-cd explicae-test
+cd explicae-teste
 ```
 
 ### 2. Instalar dependências
