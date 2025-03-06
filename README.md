@@ -13,7 +13,7 @@ Este projeto utiliza Vue 3 e Vite para criar uma aplicação interativa com estr
 ### 1. Clonar o repositório
 
 ```sh
-git clone https://github.com/seu-usuario/explicae-test.git
+git clone https://github.com/wislla/explicae-teste.git
 cd explicae-test
 ```
 
